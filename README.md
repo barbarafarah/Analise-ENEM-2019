@@ -12,7 +12,7 @@ ENEM in loose translation means National Exam of High School. It is the principa
 
 + Dowload the data from the Brazil government website: https://download.inep.gov.br/microdados/microdados_enem_2019.zip
 
-+ Make sure that the following libraries are installed in your computer: pandas, zipfile, numpy, matplotlib, seaborn
++ Make sure that the following libraries are installed in your computer: pandas, zipfile, numpy, matplotlib and seaborn.
 
 + Run the code on Jupyter Notebook and all the results will be printed.
 
