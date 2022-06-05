@@ -8,9 +8,9 @@ ENEM in loose translation means National Exam of High School. It is the principa
 
 + "Analise Exploratoria de Dados" to see the code and comments in Portuguese
 
-### :open_file_folder: How to access the project:
+### :open_file_folder: The project:
 
-+ Dowload the data from the "ENEM_2019_Data" folder.
++ Dowload the data from the Brazil government website: https://download.inep.gov.br/microdados/microdados_enem_2019.zip
 
 + Make sure that the following libraries are installed in your computer: pandas, zipfile, numpy, matplotlib, seaborn
 
