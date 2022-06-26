@@ -4,9 +4,10 @@ ENEM in loose translation means National Exam of High School. It is the principa
 
 ### :earth_americas: Here you can find the same document in English or Portuguese, please click:
 
-+ "Exploratory-Data-Analysis-ENEM-2019" to see the code and comments in English
++ "[English]ENEM2019_eploratory_data_analysis" to see the code and comments in English
 
-+ "Analise Exploratoria de Dados" to see the code and comments in Portuguese
++ "[Portugues] ENEM2019_analise_exploratoria_de_dados" to see the code and comments in Portuguese
+
 
 ### :open_file_folder: The project:
 
