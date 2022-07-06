@@ -1,6 +1,7 @@
 # Exploratory Data Analysis ENEM 2019
 ENEM in loose translation means National Exam of High School. It is the principal way to enter a university in all Brazilian territory. This analysis is meant to discover if ethnicity, household income, age, type of school (private or public), access to internet and other aspects can be related to the final grade of the students.
 
+This project was concluded in 08 December 2021 as a final exam of the course Big Data Science ministred by Semantix
 
 ### :earth_americas: Here you can find the same document in English or Portuguese, please click:
 
