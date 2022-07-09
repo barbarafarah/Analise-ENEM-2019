@@ -1,16 +1,23 @@
 # Exploratory Data Analysis ENEM 2019
+
 ENEM in loose translation means National Exam of High School. It is the principal way to enter a university in all Brazilian territory. This analysis is meant to discover if ethnicity, household income, age, type of school (private or public), access to internet and other aspects can be related to the final grade of the students.
 
-This project was concluded in 08 December 2021 as a final exam of the course Big Data Science ministred by Semantix
+:white_check_mark: This project was concluded in 08 December 2021 as a final exam of the course Big Data Science ministred by Semantix
 
-### :earth_americas: Here you can find the same document in English or Portuguese, please click:
+### :small_blue_diamond: In order to see the project in English, please click:
 
-+ "[English]ENEM2019_eploratory_data_analysis" to see the code and comments in English
++ [English] Code_Data_Analysis_ENEM2019.ipynb
 
-+ "[Portugues] ENEM2019_analise_exploratoria_de_dados" to see the code and comments in Portuguese
++ [English] Report_Data_Analysis_ENEM 2019.pdf
+
+### :small_blue_diamond: In order to see the project in Portuguese, please click:
+
++ [Portugues] Codigo_Analise_Microdados_ENEM2019s.ipynb
+
++ [Portugues] Relatorio_Análise_Microdados_ENEM 2019.pdf
 
 
-### :open_file_folder: The project:
+### :open_file_folder: How to access the project:
 
 + Dowload the data from the Brazil government website: https://download.inep.gov.br/microdados/microdados_enem_2019.zip
 
